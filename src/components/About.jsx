@@ -19,7 +19,7 @@ const About = () => {
               About Me
             </h2>
             <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-              Hi, I'm Dibyendu Panja
+              Hi, I am  Dibyendu Panja
             </p>
             <p className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto">
               A Full-Stack Developer with expertise in MERN stack and contribute
